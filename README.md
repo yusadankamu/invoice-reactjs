@@ -19,7 +19,7 @@ Welcome to the **Invoice Web App** — a modern, lightning-fast invoicing soluti
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/your-username/invoice-web-app.git
+  git clone https://github.com/yusadankamu/invoice-reactjs.git
   cd invoice-web-app
   ```
 
